@@ -1,0 +1,119 @@
+* {
+  background-color: #ffe6a7;
+  color: #432818;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 20px;
+}
+
+.title {
+  font-size: 250px;
+}
+
+.intro {
+  font-size: 35px;
+}
+
+.home-intro {
+  color: #99852a;
+}
+
+.right-button {
+  text-align: right;
+  margin-top: 40px;
+}
+
+button {
+  background-color: #432818;
+  color: #ffe6a7;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 5px;
+}
+
+.album {
+  width: 390px;
+  margin-bottom: 0px;
+}
+
+.album-yellow {
+  margin-left: 0px;
+}
+
+.album-red {
+  margin-left: 30px;
+}
+
+.album-section {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+
+.section-up, .section-down {
+  margin: 0px;
+  vertical-align: middle;
+}
+
+.section-up button {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+
+.section-up button {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+.section-down button {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+
+.song {
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 110px;
+}
+
+.singer {
+  color: #99852a;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-left: 110px;
+}
+
+.play {
+  width: 50px;
+  margin: 0px 0px 0px 110px;
+}
+
+.play-section {
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.select-button {
+  margin: 0px;
+}
+
+.play-left {
+  background-color: transparent;
+  border: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.result-display {
+  margin: 0px;
+  text-align: center;
+}
+
+.result-display img {
+  width: 800px;
+}

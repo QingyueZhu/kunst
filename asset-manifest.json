@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kunst/static/css/main.a80133f5.css",
+    "main.js": "/kunst/static/js/main.baad7055.js",
+    "static/media/sad.m4a": "/kunst/static/media/sad.5eda1988209c0998affa.m4a",
+    "static/media/happy.m4a": "/kunst/static/media/happy.c41d12aea4f678eb110c.m4a",
+    "static/media/exciting.m4a": "/kunst/static/media/exciting.ea5629cdf44ee96e0cd9.m4a",
+    "static/media/peaceful.m4a": "/kunst/static/media/peaceful.955f76d8015508f4c65c.m4a",
+    "static/media/green-album.png": "/kunst/static/media/green-album.3d8d7c29998288e08bcc.png",
+    "static/media/yellow-album.png": "/kunst/static/media/yellow-album.fc124c78ae3c68300d15.png",
+    "static/media/blue-album.png": "/kunst/static/media/blue-album.e6857e3e7e557219c6e5.png",
+    "static/media/red-album.png": "/kunst/static/media/red-album.59cc213bc9d82f56eb8c.png",
+    "static/media/exciting-result.jpg": "/kunst/static/media/exciting-result.0ec9cbb01e6a102da6a4.jpg",
+    "static/media/peaceful-result.jpg": "/kunst/static/media/peaceful-result.26bfa8a20b821e71cabe.jpg",
+    "static/media/happy-result.jpg": "/kunst/static/media/happy-result.54616bf3778cd2884ade.jpg",
+    "static/media/sad-result.jpg": "/kunst/static/media/sad-result.cc0dbf72e624aed50c15.jpg",
+    "static/media/pause.png": "/kunst/static/media/pause.c95c99b8722a7e753717.png",
+    "static/media/play.png": "/kunst/static/media/play.0c399d39c5435346f697.png",
+    "index.html": "/kunst/index.html",
+    "main.a80133f5.css.map": "/kunst/static/css/main.a80133f5.css.map",
+    "main.baad7055.js.map": "/kunst/static/js/main.baad7055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a80133f5.css",
+    "static/js/main.baad7055.js"
+  ]
+}

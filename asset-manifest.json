@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kunst/static/css/main.a80133f5.css",
-    "main.js": "/kunst/static/js/main.698366c2.js",
+    "main.js": "/kunst/static/js/main.bf1ad506.js",
     "static/media/sad.m4a": "/kunst/static/media/sad.5eda1988209c0998affa.m4a",
     "static/media/happy.m4a": "/kunst/static/media/happy.c41d12aea4f678eb110c.m4a",
     "static/media/exciting.m4a": "/kunst/static/media/exciting.ea5629cdf44ee96e0cd9.m4a",
@@ -18,10 +18,10 @@
     "static/media/play.png": "/kunst/static/media/play.0c399d39c5435346f697.png",
     "index.html": "/kunst/index.html",
     "main.a80133f5.css.map": "/kunst/static/css/main.a80133f5.css.map",
-    "main.698366c2.js.map": "/kunst/static/js/main.698366c2.js.map"
+    "main.bf1ad506.js.map": "/kunst/static/js/main.bf1ad506.js.map"
   },
   "entrypoints": [
     "static/css/main.a80133f5.css",
-    "static/js/main.698366c2.js"
+    "static/js/main.bf1ad506.js"
   ]
 }

@@ -1,8 +1,8 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import HomePage from './components/HomePage/HomePage';
-import SelectPage from './components/SelectPage/SelectPage';
-import ResultPage from './components/ResultPage/ResultPage';
+import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import HomePage from "./components/HomePage/HomePage";
+import SelectPage from "./components/SelectPage/SelectPage";
+import ResultPage from "./components/ResultPage/ResultPage";
 
 const AppRouter = () => {
   return (

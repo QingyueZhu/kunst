@@ -1,6 +1,6 @@
 // Qingyue Zhu
-import React from 'react';
-import AppRouter from './AppRouter';
+import React from "react";
+import AppRouter from "./AppRouter";
 
 function App() {
   return (

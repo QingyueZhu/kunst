@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/kunst/static/css/main.a80133f5.css",
-    "main.js": "/kunst/static/js/main.bf1ad506.js",
+    "main.js": "/kunst/static/js/main.6027068a.js",
+    "static/media/exciting-result-2.jpg": "/kunst/static/media/exciting-result-2.08ed89b7b7943c06f049.jpg",
+    "static/media/sad-result-2.jpg": "/kunst/static/media/sad-result-2.8dfe03253808e060c8c7.jpg",
+    "static/media/peaceful-result-2.jpg": "/kunst/static/media/peaceful-result-2.142896fe8908aa81847c.jpg",
+    "static/media/happy-result-2.jpg": "/kunst/static/media/happy-result-2.a8ae7d0c88fd23350553.jpg",
     "static/media/sad.m4a": "/kunst/static/media/sad.5eda1988209c0998affa.m4a",
     "static/media/happy.m4a": "/kunst/static/media/happy.c41d12aea4f678eb110c.m4a",
     "static/media/exciting.m4a": "/kunst/static/media/exciting.ea5629cdf44ee96e0cd9.m4a",
@@ -18,10 +22,10 @@
     "static/media/play.png": "/kunst/static/media/play.0c399d39c5435346f697.png",
     "index.html": "/kunst/index.html",
     "main.a80133f5.css.map": "/kunst/static/css/main.a80133f5.css.map",
-    "main.bf1ad506.js.map": "/kunst/static/js/main.bf1ad506.js.map"
+    "main.6027068a.js.map": "/kunst/static/js/main.6027068a.js.map"
   },
   "entrypoints": [
     "static/css/main.a80133f5.css",
-    "static/js/main.bf1ad506.js"
+    "static/js/main.6027068a.js"
   ]
 }
